@@ -1,0 +1,14 @@
+h3{
+    color: tomato;
+    padding: 10px;
+    border: 10px solid rgb(21, 108, 21);
+    border-radius: 10px;
+    box-shadow: 10px 10px 20px rgb(121, 248, 121);
+}
+p{
+    color: tomato;
+    padding: 15px;
+    border: 10px solid rgb(21, 108, 21);
+    border-radius: 10px;
+    box-shadow: 10px 10px 20px rgb(121, 248, 121);  
+}
